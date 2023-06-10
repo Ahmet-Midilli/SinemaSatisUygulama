@@ -3,3 +3,4 @@ Müşteriden alınan ürünler (mısır,su,cola,bilet) yan tarafında fiyat tabl
 onlarında yanında kasa , toplam fiyat ve hesapla butonu olucak.
 # Uygulamanın Geliştirileceği Yer.
 Windows Form.
+## UYGULAMA ANLATIMI 
