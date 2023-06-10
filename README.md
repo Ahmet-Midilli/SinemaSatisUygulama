@@ -4,4 +4,5 @@ onlarında yanında kasa , toplam fiyat ve hesapla butonu olucak.
 # Uygulamanın Geliştirileceği Yer.
 Windows Form.
 ## UYGULAMA ANLATIMI 
+SASASASASA
 
