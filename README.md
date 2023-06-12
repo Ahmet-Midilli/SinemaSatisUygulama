@@ -30,5 +30,12 @@ kutucukları
 
 * Ürünlerin adet bilgisini öğrenmek için kullandığım kod dizini ;
 
-![adet bilgisi](https://github.com/Ahmet-Midilli/SinemaSatisUygulama/assets/104301620/28fc77ff-1716-4248-9e00-8a144d225320)
+![adet hesaplama](https://github.com/Ahmet-Midilli/SinemaSatisUygulama/assets/104301620/c3174fa7-07c1-4d43-acf7-638a961da993)
 
+* Müşterilerin aldığı ürünlerin toplam TL değerinden karşılığını veren kod dizini ; 
+
+![toplam hesaplama](https://github.com/Ahmet-Midilli/SinemaSatisUygulama/assets/104301620/1c76cc60-e0f4-45f0-b05c-be39a6430b52)
+
+* Gün için verilen tüm siparişleri ortak bir kasada karşılığını gösteren kod dizinim ; 
+* 
+![total kasa hesaplama](https://github.com/Ahmet-Midilli/SinemaSatisUygulama/assets/104301620/c6d1557f-b544-4993-a3bc-70a1180190c1)
