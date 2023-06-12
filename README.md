@@ -13,6 +13,8 @@ Uygulamamız bir sinema şirketinin film öncesi insanların vakit geçirebilece
 
 Burada
 
+kutucukları 
+
  * textbox 1 : mısır
  * textbox 2 : su
  * textbox 3 : çay
@@ -25,3 +27,8 @@ Burada
 3.aşamada groupBox3'ümüzü ise kasa olarak kullanacağız.müşterinin ödeyeceği total tutarı burada göreceğiz.
 
 ![kasa](https://github.com/Ahmet-Midilli/SinemaSatisUygulama/assets/104301620/4f5d5cb5-98cc-4929-a250-6eea254e6661)
+
+* Ürünlerin adet bilgisini öğrenmek için kullandığım kod dizini ;
+
+![adet bilgisi](https://github.com/Ahmet-Midilli/SinemaSatisUygulama/assets/104301620/28fc77ff-1716-4248-9e00-8a144d225320)
+
