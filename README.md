@@ -7,3 +7,4 @@ Windows Form.
 Uygulamamız bir sinema şirketinin film öncesi insanların vakit geçirebileceği bir cafenin satışını yapacağı 4 ürünün (Çay,Mısır,Su,Bilet) sisteme adet fiyat olarak kayıt edilmesini sağlayacak.Müşteriler siparişi verecek isim soyisim kayıt edilip sırayla teslim edilecek.
 
 ## Uygulama Yapım Aşamaları
+*# SSS
