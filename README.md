@@ -40,5 +40,7 @@ kutucukları
 
 ![total kasa hesaplama](https://github.com/Ahmet-Midilli/SinemaSatisUygulama/assets/104301620/c6d1557f-b544-4993-a3bc-70a1180190c1)
 
+Günün ilk hesabını alan kasa örneği;
+
 ![bilet satış uygulaması](https://github.com/Ahmet-Midilli/SinemaSatisUygulama/assets/104301620/4edf398d-1d1b-41dc-b26f-844cfbee6d6a)
 
