@@ -18,7 +18,10 @@ Burada
  * textbox 3 : çay
  * textbox 4 : bilet
 
- 2.aşamada groupBox2'mizi etiket olarak kullanacağız 
+ 2.aşamada groupBox2'mizi etiket olarak kullanacağız kasayı burada ki fiyatlara göre hesaplayacağız.
 
 ![Fiyat Tablosu](https://github.com/Ahmet-Midilli/SinemaSatisUygulama/assets/104301620/b3286db7-3671-402b-9ff4-3ed525bb0b86)
 
+3.aşamada groupBox3'ümüzü ise kasa olarak kullanacağız.müşterinin ödeyeceği total tutarı burada göreceğiz.
+
+![kasa](https://github.com/Ahmet-Midilli/SinemaSatisUygulama/assets/104301620/4f5d5cb5-98cc-4929-a250-6eea254e6661)
