@@ -10,3 +10,10 @@ Uygulamamız bir sinema şirketinin film öncesi insanların vakit geçirebilece
 * 1.aşamada groupBox1 imizi adetlerin gireceği kısım olarak ayarladık
 
 ![adet bölümü](https://github.com/Ahmet-Midilli/SinemaSatisUygulama/assets/104301620/656fbf23-4ee9-4d48-a4a5-648c0a52a37e)
+
+Burada
+
+* textbox 1 : mısır
+* textbox 2 : su
+* textbox 3 : çay
+* textbox 4 : bilet
