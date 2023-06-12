@@ -13,12 +13,12 @@ Uygulamamız bir sinema şirketinin film öncesi insanların vakit geçirebilece
 
 Burada
 
- textbox 1 : mısır
- textbox 2 : su
- textbox 3 : çay
- textbox 4 : bilet
+ * textbox 1 : mısır
+ * textbox 2 : su
+ * textbox 3 : çay
+ * textbox 4 : bilet
 
-* 2.aşamada groupBox2'mizi etiket olarak kullanacağız 
+ 2.aşamada groupBox2'mizi etiket olarak kullanacağız 
 
 ![Fiyat Tablosu](https://github.com/Ahmet-Midilli/SinemaSatisUygulama/assets/104301620/b3286db7-3671-402b-9ff4-3ed525bb0b86)
 
